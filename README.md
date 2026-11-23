@@ -6,16 +6,16 @@
 
 ## About Me
 
-> I am a software developer focused on designing and building responsive, structured, and user-centered cross-platform mobile applications as well as modern web interfaces. My day-to-day work revolves around **Flutter** and **Dart** for mobile development, alongside **HTML**, **CSS**, and **JavaScript** for crafting clean, interactive web experiences.
+> I am a software developer focused on designing and building responsive, structured, and user-centered cross-platform mobile applications as well as modern web interfaces. My day-to-day work revolves around **Flutter** and **Dart** for mobile development, **HTML**, **CSS**, and **JavaScript** for interactive web experiences, alongside **PHP**, **Laravel**, **MySQL**, and **PostgreSQL** for backend and database workflows.
 >
-> I care deeply about clean code architecture, design system consistency, maintainable state management, and reliable data flows. As a tech enthusiast, I continuously explore emerging technologies, modern tooling, and software engineering practices so the applications I build remain practical, scalable, and easy to evolve over time.
+> I care deeply about clean code architecture, design system consistency, maintainable state management, and reliable data flows. As a tech enthusiast, I also leverage AI tools like **Gemini** and **Claude** while continuously exploring modern engineering practices so the applications I build remain practical, scalable, and easy to evolve over time.
 
 <br />
 
 ## Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js&perline=5" height="68" alt="Flutter, Dart, HTML, CSS, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,php,laravel,mysql,postgres,gemini,claude&perline=6" height="68" alt="Flutter, Dart, HTML, CSS, JavaScript, PHP, Laravel, MySQL, PostgreSQL, Gemini, Claude" />
 </div>
 
 <br />
