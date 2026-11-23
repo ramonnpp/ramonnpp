@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Hi, I'm Ramon Putro Prakoso — Web Dev | Mobile Dev | Tech Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:034694,55:022B5B,100:FF8000&height=215&section=header&text=Hi,%20I%27m%20Ramon%20Putro%20Prakoso&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEV%20%7C%20MOBILE%20DEV%20%7C%20TECH%20ENTHUSIAST&descSize=14&descColor=FFFFFF&descAlignY=61" width="100%" />
 </p>
 
 <br />
