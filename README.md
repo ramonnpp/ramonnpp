@@ -14,9 +14,14 @@
 
 ## Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,php,laravel,mysql,postgres,gemini,claude&perline=6" height="68" alt="Flutter, Dart, HTML, CSS, JavaScript, PHP, Laravel, MySQL, PostgreSQL, Gemini, Claude" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,php,laravel,mysql,postgres&perline=9" height="54" alt="Flutter, Dart, HTML, CSS, JavaScript, PHP, Laravel, MySQL, PostgreSQL" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GEMINI-034694?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF&labelColor=06264D" height="32" />
+  <img src="https://img.shields.io/badge/CLAUDE-FF8000?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=8A4500" height="32" />
+</p>
 
 <br />
 
