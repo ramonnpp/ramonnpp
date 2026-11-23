@@ -6,7 +6,9 @@
 
 ## 01 — PROFIL
 
-> Membangun aplikasi mobile lintas platform dan antarmuka web yang responsif, rapi, dan mudah digunakan. Aktif mengembangkan proyek dengan **Flutter**, **Dart**, **HTML**, **CSS**, dan **JavaScript**, serta terus mengeksplorasi teknologi baru, kualitas kode, dan pengalaman antarmuka yang lebih baik.
+> Saya adalah pengembang perangkat lunak yang berfokus pada perancangan dan implementasi aplikasi mobile lintas platform serta antarmuka web modern yang responsif, terukur, dan berorientasi pada pengalaman pengguna. Dalam keseharian, saya mengerjakan berbagai kebutuhan pengembangan menggunakan **Flutter** dan **Dart** untuk aplikasi mobile, serta **HTML**, **CSS**, dan **JavaScript** untuk membangun antarmuka web yang interaktif dan terstruktur.
+>
+> Saya memiliki ketertarikan kuat pada arsitektur kode yang bersih, konsistensi sistem desain, manajemen state yang rapi, serta integrasi data yang andal. Sebagai seorang *tech enthusiast*, saya terus mengikuti perkembangan ekosistem teknologi dan praktik rekayasa perangkat lunak terbaru agar setiap produk digital yang dibangun tidak hanya berjalan fungsional, tetapi juga mudah dirawat dan dikembangkan dalam jangka panjang.
 
 <br />
 
@@ -27,22 +29,34 @@
 
 <br />
 
-## 04 — KONTAK
+## 04 — KONTAK & JARINGAN
 
-<p align="left">
-  <a href="https://github.com/ramonnpp">
-    <img src="https://img.shields.io/badge/GITHUB-ramonnpp-034694?style=for-the-badge&logo=github&logoColor=FFFFFF" height="32" />
-  </a>
-  <a href="https://linkedin.com/in/ramonnpp">
-    <img src="https://img.shields.io/badge/LINKEDIN-ramonnpp-034694?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="32" />
-  </a>
-  <a href="https://instagram.com/ramonnpp_">
-    <img src="https://img.shields.io/badge/INSTAGRAM-ramonnpp_-FF8000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" height="32" />
-  </a>
-  <a href="mailto:ramonnpp22@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-ramonnpp22@gmail.com-FF8000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="32" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <sub><b style="color:#034694;">GITHUB</b></sub><br />
+      <a href="https://github.com/ramonnpp"><b>github.com/ramonnpp</b></a><br />
+      <sub>Repositori kode, proyek aplikasi, & eksperimen teknis</sub>
+    </td>
+    <td width="50%">
+      <sub><b style="color:#034694;">LINKEDIN</b></sub><br />
+      <a href="https://linkedin.com/in/ramonnpp"><b>linkedin.com/in/ramonnpp</b></a><br />
+      <sub>Profil profesional, riwayat pengembangan, & koneksi kerja</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <sub><b style="color:#FF8000;">INSTAGRAM</b></sub><br />
+      <a href="https://instagram.com/ramonnpp_"><b>@ramonnpp_</b></a><br />
+      <sub>Catatan visual, aktivitas harian, & cuplikan proses</sub>
+    </td>
+    <td width="50%">
+      <sub><b style="color:#FF8000;">EMAIL</b></sub><br />
+      <a href="mailto:ramonnpp22@gmail.com"><b>ramonnpp22@gmail.com</b></a><br />
+      <sub>Kolaborasi proyek, diskusi teknis, & komunikasi langsung</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
