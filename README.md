@@ -42,7 +42,7 @@
 <br />
 
 <p align="left">
-  <a href="https://github.com/USERNAME_GITHUB_KAMU">
+  <a href="https://github.com/ramonnpp">
     <img src="https://img.shields.io/badge/GITHUB-034694?style=for-the-badge&logo=github&logoColor=FFFFFF" height="32" />
   </a>
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
