@@ -1,64 +1,42 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:034694,100:022B5B&height=175&section=header&text=RAMON%20PUTRO%20PRAKOSO&fontSize=34&fontColor=FFFFFF&fontAlignY=43&desc=WEB%20%26%20MOBILE%20ENGINEERING%20%E2%80%A2%20TECH%20ENTHUSIAST&descSize=13&descColor=FF8000&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:034694,50:034694,100:FF8000&height=4&section=header" width="100%" />
+
+<h3>RAMON PUTRO PRAKOSO</h3>
+<p><sub><b>MOBILE & WEB DEVELOPER</b> · FLUTTER · DART · HTML · CSS · JAVASCRIPT · TECH ENTHUSIAST</sub></p>
+
 </div>
 
 <br />
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h3>// RINGKASAN</h3>
-      <p>
-        Fokus merancang dan membangun aplikasi lintas platform yang responsif, terstruktur, dan fungsional—mulai dari antarmuka web hingga aplikasi mobile berbasis Flutter.
-      </p>
-      <p>
-        Tertarik pada arsitektur kode yang bersih, desain antarmuka, serta eksplorasi teknologi pengembangan perangkat lunak modern.
-      </p>
+    <td width="50%" valign="top">
+      <b>01 / APPROACH</b><br /><br />
+      Membangun aplikasi mobile dan antarmuka web yang ringan, jelas alurnya, serta nyaman dipakai sehari-hari. Suka mengulik detail interaksi, struktur kode yang rapi, dan perkembangan teknologi baru.
     </td>
-    <td width="42%" valign="top">
-      <h3>// DOMAIN UTAMA</h3>
-      <ul>
-        <li><b>Mobile Development</b> — Cross-platform UI & integrasi API</li>
-        <li><b>Web Development</b> — Frontend interaktif & manajemen state</li>
-        <li><b>System & Tools</b> — Pengujian, optimasi performa, & otomatisasi alur kerja</li>
-      </ul>
+    <td width="50%" valign="top">
+      <b>02 / STACK & FOCUS</b><br /><br />
+      <img src="https://img.shields.io/badge/FLUTTER-034694?style=flat-square" />
+      <img src="https://img.shields.io/badge/DART-034694?style=flat-square" />
+      <img src="https://img.shields.io/badge/HTML5-FF8000?style=flat-square&labelColor=111827" />
+      <img src="https://img.shields.io/badge/CSS3-FF8000?style=flat-square&labelColor=111827" />
+      <img src="https://img.shields.io/badge/JAVASCRIPT-FF8000?style=flat-square&labelColor=111827" />
+      <br /><br />
+      <sub>Mobile apps · Responsive web · UI & state flow · Tech exploration</sub>
     </td>
   </tr>
 </table>
 
 <br />
 
-### // CORE STACK
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-034694?style=flat-square&logo=flutter&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Dart-034694?style=flat-square&logo=dart&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JavaScript-034694?style=flat-square&logo=javascript&logoColor=FF8000" />
-  <img src="https://img.shields.io/badge/HTML5-034694?style=flat-square&logo=html5&logoColor=FF8000" />
-  <img src="https://img.shields.io/badge/CSS3-034694?style=flat-square&logo=css3&logoColor=FF8000" />
-</p>
-
-<br />
-
-### // AKTIVITAS & KONTRIBUSI
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramonnpp&bg_color=0D1117&color=FFFFFF&line=034694&point=FF8000&area=true&area_color=034694&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8000&icon_color=034694&text_color=E2E8F0&ring_color=FF8000" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8000&text_color=E2E8F0" width="49%" />
 </div>
 
 <br />
 
-### // KONTAK
-
-<p>
-  <a href="https://linkedin.com/in/ramonnpp">
-    <img src="https://img.shields.io/badge/LINKEDIN-034694?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-  </a>
-  <a href="mailto:ramonnpp22@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF8000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8000,100:034694&height=6&section=footer" width="100%" />
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-034694?style=for-the-badge" /></a>
+  <a href="https://github.com/USERNAME_GITHUB_KAMU"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge" /></a>
+  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF8000?style=for-the-badge" /></a>
 </div>
