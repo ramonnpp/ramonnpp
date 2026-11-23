@@ -31,36 +31,20 @@
 
 ## 04 — CONNECT
 
-<table>
-  <tr>
-    <td width="6" bgcolor="#034694"></td>
-    <td>
-      <b>GitHub</b> · <a href="https://github.com/ramonnpp"><code>github.com/ramonnpp</code></a><br />
-      <sub>Source code, application repositories, and technical experiments.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="6" bgcolor="#034694"></td>
-    <td>
-      <b>LinkedIn</b> · <a href="https://linkedin.com/in/ramonnpp"><code>linkedin.com/in/ramonnpp</code></a><br />
-      <sub>Career background, professional profile, and networking.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="6" bgcolor="#FF8000"></td>
-    <td>
-      <b>Instagram</b> · <a href="https://instagram.com/ramonnpp_"><code>@ramonnpp_</code></a><br />
-      <sub>Everyday moments, visual notes, and behind-the-scenes updates.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="6" bgcolor="#FF8000"></td>
-    <td>
-      <b>Email</b> · <a href="mailto:ramonnpp22@gmail.com"><code>ramonnpp22@gmail.com</code></a><br />
-      <sub>Project collaboration, technical inquiries, and direct messages.</sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/ramonnpp">
+    <img src="https://img.shields.io/badge/GITHUB-%20ramonnpp-034694?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=06264D" height="36" />
+  </a>
+  <a href="https://linkedin.com/in/ramonnpp">
+    <img src="https://img.shields.io/badge/LINKEDIN-%20ramonnpp-034694?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=06264D" height="36" />
+  </a>
+  <a href="https://instagram.com/ramonnpp_">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%20@ramonnpp_-FF8000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=8A4500" height="36" />
+  </a>
+  <a href="mailto:ramonnpp22@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-%20ramonnpp22@gmail.com-FF8000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=8A4500" height="36" />
+  </a>
+</p>
 
 <br />
 
