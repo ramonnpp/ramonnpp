@@ -4,11 +4,11 @@
 
 <br />
 
-## 01 — PROFIL
+## 01 — ABOUT ME
 
-> Saya adalah pengembang perangkat lunak yang berfokus pada perancangan dan implementasi aplikasi mobile lintas platform serta antarmuka web modern yang responsif, terukur, dan berorientasi pada pengalaman pengguna. Dalam keseharian, saya mengerjakan berbagai kebutuhan pengembangan menggunakan **Flutter** dan **Dart** untuk aplikasi mobile, serta **HTML**, **CSS**, dan **JavaScript** untuk membangun antarmuka web yang interaktif dan terstruktur.
+> I am a software developer focused on designing and building responsive, structured, and user-centered cross-platform mobile applications as well as modern web interfaces. My day-to-day work revolves around **Flutter** and **Dart** for mobile development, alongside **HTML**, **CSS**, and **JavaScript** for crafting clean, interactive web experiences.
 >
-> Saya memiliki ketertarikan kuat pada arsitektur kode yang bersih, konsistensi sistem desain, manajemen state yang rapi, serta integrasi data yang andal. Sebagai seorang *tech enthusiast*, saya terus mengikuti perkembangan ekosistem teknologi dan praktik rekayasa perangkat lunak terbaru agar setiap produk digital yang dibangun tidak hanya berjalan fungsional, tetapi juga mudah dirawat dan dikembangkan dalam jangka panjang.
+> I care deeply about clean code architecture, design system consistency, maintainable state management, and reliable data flows. As a tech enthusiast, I continuously explore emerging technologies, modern tooling, and software engineering practices so the applications I build remain practical, scalable, and easy to evolve over time.
 
 <br />
 
@@ -20,7 +20,7 @@
 
 <br />
 
-## 03 — STATISTIK
+## 03 — GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramonnpp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8000&icon_color=FF8000&text_color=FFFFFF&ring_color=034694" width="49%" />
@@ -29,31 +29,35 @@
 
 <br />
 
-## 04 — KONTAK & JARINGAN
+## 04 — CONNECT
 
 <table>
   <tr>
-    <td width="50%">
-      <sub><b style="color:#034694;">GITHUB</b></sub><br />
-      <a href="https://github.com/ramonnpp"><b>github.com/ramonnpp</b></a><br />
-      <sub>Repositori kode, proyek aplikasi, & eksperimen teknis</sub>
-    </td>
-    <td width="50%">
-      <sub><b style="color:#034694;">LINKEDIN</b></sub><br />
-      <a href="https://linkedin.com/in/ramonnpp"><b>linkedin.com/in/ramonnpp</b></a><br />
-      <sub>Profil profesional, riwayat pengembangan, & koneksi kerja</sub>
+    <td width="6" bgcolor="#034694"></td>
+    <td>
+      <b>GitHub</b> · <a href="https://github.com/ramonnpp"><code>github.com/ramonnpp</code></a><br />
+      <sub>Source code, application repositories, and technical experiments.</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <sub><b style="color:#FF8000;">INSTAGRAM</b></sub><br />
-      <a href="https://instagram.com/ramonnpp_"><b>@ramonnpp_</b></a><br />
-      <sub>Catatan visual, aktivitas harian, & cuplikan proses</sub>
+    <td width="6" bgcolor="#034694"></td>
+    <td>
+      <b>LinkedIn</b> · <a href="https://linkedin.com/in/ramonnpp"><code>linkedin.com/in/ramonnpp</code></a><br />
+      <sub>Career background, professional profile, and networking.</sub>
     </td>
-    <td width="50%">
-      <sub><b style="color:#FF8000;">EMAIL</b></sub><br />
-      <a href="mailto:ramonnpp22@gmail.com"><b>ramonnpp22@gmail.com</b></a><br />
-      <sub>Kolaborasi proyek, diskusi teknis, & komunikasi langsung</sub>
+  </tr>
+  <tr>
+    <td width="6" bgcolor="#FF8000"></td>
+    <td>
+      <b>Instagram</b> · <a href="https://instagram.com/ramonnpp_"><code>@ramonnpp_</code></a><br />
+      <sub>Everyday moments, visual notes, and behind-the-scenes updates.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="6" bgcolor="#FF8000"></td>
+    <td>
+      <b>Email</b> · <a href="mailto:ramonnpp22@gmail.com"><code>ramonnpp22@gmail.com</code></a><br />
+      <sub>Project collaboration, technical inquiries, and direct messages.</sub>
     </td>
   </tr>
 </table>
